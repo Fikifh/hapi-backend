@@ -8,7 +8,7 @@ Course can be found on the [Dicoding website](https://www.dicoding.com/academies
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Lumen, please send an e-mail fo All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability, please send an e-mail fo All security vulnerabilities will be promptly addressed.
 
 ## License
 
